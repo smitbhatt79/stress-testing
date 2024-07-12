@@ -21,8 +21,9 @@ for /l %%x in (1, 1, %numLoop%) do (
     solution < input.in > output.out 
     brute < input.in > output2.out
     
-    rem (rem means comment, to not see the test cases as you stress test, comment the below 8 lines by adding rem in front of them)
-    
+    rem rem means comment,this is a comment. 
+    rem To not see the test cases as you stress test, comment the below 8 lines by adding rem in front of them or alternatively using ctrl + / in an ide)
+
     echo Input: 
     type input.in
     echo.
