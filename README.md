@@ -30,6 +30,12 @@ An example of how these files can be is provided initially [ For this [Problem](
 
 ```
 cd path/to/stress-testing
+```
+```
+
+https://github.com/user-attachments/assets/2c8d74b4-e00a-46cc-b48a-a63636467f00
+
+
 path/to/stress-testing/stress.bat 100
 ```
 
