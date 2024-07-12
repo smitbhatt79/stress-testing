@@ -17,7 +17,7 @@ signed main()
 	// keep n small initially for easy debugging, Increase if unable to find case
 	int n = random(1,10);
 	int l = random(1,10);
-	int r = random(l,20); // Generates random number from l to r
+	int r = random(l,20); // Generates random number from l to 20
 	
 	cout << n << " " << l << " " << r << endl;
 
