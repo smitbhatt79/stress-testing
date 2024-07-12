@@ -15,9 +15,9 @@ signed main()
 	cout << 1 << endl; // Number of test cases (t)
 	
 	// keep n short initially for easy debugging, Increase if unable to find case
-	int n = random(1,5);
-	int l = random(1,5);
-	int r = random(l,10); // Generates random number from l to r
+	int n = random(1,10);
+	int l = random(1,10);
+	int r = random(l,20); // Generates random number from l to r
 	
 	cout << n << " " << l << " " << r << endl;
 
