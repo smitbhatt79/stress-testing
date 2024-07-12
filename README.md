@@ -25,7 +25,8 @@ An example of how these files can be structured is provided initially [for this 
 ```
     path/to/stress-testing/stress.bat 100
 ```
-
+\
+\
 To avoid seeing test cases as you stress test, comment out these lines in the `stress.bat` file:
 ```
     echo Input: 
