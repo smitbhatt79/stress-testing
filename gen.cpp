@@ -13,8 +13,8 @@ return a + rng() % (b - a + 1);
 signed main()
 {
 	cout << 1 << endl; // Number of test cases (t)
-	
-	// keep n short initially for easy debugging, Increase if unable to find case
+  
+	// keep n small initially for easy debugging, Increase if unable to find case
 	int n = random(1,10);
 	int l = random(1,10);
 	int r = random(l,20); // Generates random number from l to r
