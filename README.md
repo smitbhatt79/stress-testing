@@ -32,9 +32,6 @@ An example of how these files can be is provided initially [ For this [Problem](
 cd path/to/stress-testing
 ```
 ```
-
-
-
 path/to/stress-testing/stress.bat 100
 ```
 
